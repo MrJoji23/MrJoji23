@@ -20,29 +20,29 @@ Siempre estoy buscando qué más aprender y qué nuevo reto me pone a prueba.
 
 Actualmente me encuentro en búsqueda de **nuevas oportunidades profesionales** donde pueda aportar mis conocimientos técnicos y mi capacidad de resolución creativa. Mi formación en el programa **ADSO** me ha permitido desarrollar una visión integral del software, priorizando siempre un código limpio, funcional y escalable.
 
-Si tu equipo o empresa busca a alguien con bases sólidas en **PHP, Java, React y Power Platform**, con una actitud proactiva y aprendizaje constante, [**¡me encantaría que habláramos!**](#-hablemos) 💬
+Si tu equipo o empresa busca a alguien con bases en **PHP, Java, React y Power Platform**, con una actitud proactiva y aprendizaje constante, [**¡me encantaría que habláramos!**](#-hablemos) 💬
 
 ---
 
 ## 🚀 Proyectos Destacados (ADSO & Personal)
 
-### 🅿️ [Parquea con Confianza - Fullstack](https://github.com/MrJoji23/PROYECTO-SENA)
-Plataforma web para la gestión integral del acceso vehicular en conjuntos residenciales. Permite al personal de seguridad registrar y verificar la información de residentes y visitantes de forma ágil, reduciendo tiempos de espera y minimizando errores. Los usuarios pueden acceder, actualizar y verificar sus datos con total seguridad y privacidad.
-* **Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript.
-* **Repo:** [Parquea con Confianza](https://github.com/MrJoji23/PROYECTO-SENA)
+### 🏍️ [Mega Moto - Sitio Web Corporativo](https://www.mega-moto.com/) (2026)
+Desarrollo del sitio web oficial para empresa del sector motocicletas.
+* **Repo:** Privado (cliente)
+* **Sitio en producción:** [mega-moto.com](https://www.mega-moto.com/)
+* **Tecnologías:** React, Vite, Leaflet, Framer Motion, Bootstrap, React Router DOM.
 
-### 📸 [PhotoBogotá - Fullstack](https://github.com/Photobogotanos/Frontend-Photobogota)
+### 📸 [PhotoBogotá - Fullstack](https://github.com/Photobogotanos/Frontend-Photobogota) (2025-2026)
 Plataforma para la gestión y visualización de fotografía urbana en Bogotá.
 * **Backend:** Java Spring Boot, MongoDB, JWT, Maven, Arquitectura de capas.
 * **Frontend:** React, Leaflet (Mapas), Recharts, Axios, Framer Motion.
 * **Infraestructura:** Docker.
 * **Repo:** [PhotoBogotá](https://github.com/Photobogotanos/Frontend-Photobogota)
 
-### 🏍️ [Mega Moto - Sitio Web Corporativo](https://www.mega-moto.com/)
-Desarrollo del sitio web oficial para empresa del sector motocicletas.
-* **Repo:** Privado (cliente)
-* **Sitio en producción:** [mega-moto.com](https://www.mega-moto.com/)
-* **Tecnologías:** React, Vite, Leaflet, Framer Motion, Bootstrap, React Router DOM.
+### 🅿️ [Parquea con Confianza - Fullstack](https://github.com/MrJoji23/PROYECTO-SENA) (2024)
+Plataforma web para la gestión integral del acceso vehicular en conjuntos residenciales. Permite al personal de seguridad registrar y verificar la información de residentes y visitantes de forma ágil, reduciendo tiempos de espera y minimizando errores. Los usuarios pueden acceder, actualizar y verificar sus datos con total seguridad y privacidad.
+* **Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript.
+* **Repo:** [Parquea con Confianza](https://github.com/MrJoji23/PROYECTO-SENA)
 
 ---
 
