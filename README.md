@@ -4,7 +4,7 @@ Soy Técnico en Programación y me apasiona el mundo del desarrollo. No solo esc
 
 ¿En qué ando ahora?
 
-Le estoy metiendo duro al Tecnólogo en ADSO.
+Estoy estudiando un Tecnólogo en ADSO.
 
 Ando metiéndole duro al mundo de las **pruebas de software**, explorando testing automatizado y aseguramiento de calidad.
 
