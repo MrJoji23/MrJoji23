@@ -26,12 +26,12 @@ Si tu equipo o empresa busca a alguien con bases sólidas en **PHP, Java, React 
 
 ## 🚀 Proyectos Destacados (ADSO & Personal)
 
-### 🅿️ [Parquea con Confianza - Fullstack](TU_LINK_REPO_PCC)
+### 🅿️ [Parquea con Confianza - Fullstack](https://github.com/MrJoji23/PROYECTO-SENA)
 Plataforma web para la gestión integral del acceso vehicular en conjuntos residenciales. Permite al personal de seguridad registrar y verificar la información de residentes y visitantes de forma ágil, reduciendo tiempos de espera y minimizando errores. Los usuarios pueden acceder, actualizar y verificar sus datos con total seguridad y privacidad.
 * **Tecnologías:** PHP, MySQL, HTML5, CSS3, JavaScript.
 * **Repo:** [Parquea con Confianza](https://github.com/MrJoji23/PROYECTO-SENA)
 
-### 📸 [PhotoBogotá - Fullstack](TU_LINK_REPO_PHOTOBOGOTA)
+### 📸 [PhotoBogotá - Fullstack](https://github.com/Photobogotanos/Frontend-Photobogota)
 Plataforma para la gestión y visualización de fotografía urbana en Bogotá.
 * **Backend:** Java Spring Boot, MongoDB, JWT, Maven, Arquitectura de capas.
 * **Frontend:** React, Leaflet (Mapas), Recharts, Axios, Framer Motion.
