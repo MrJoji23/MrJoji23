@@ -38,6 +38,7 @@ Plataforma para la gestión y visualización de fotografía urbana en Bogotá.
 * **Frontend:** React, Leaflet (Mapas), Recharts, Axios, Framer Motion.
 * **Infraestructura:** Docker.
 * **Repo:** [PhotoBogotá](https://github.com/Photobogotanos/Frontend-Photobogota)
+* **Preview** [PhotoBogotá](https://photobogotanos.github.io/Frontend-Photobogota/)
 
 ### 🅿️ [Parquea con Confianza - Fullstack](https://github.com/MrJoji23/PROYECTO-SENA) (2024)
 Plataforma web para la gestión integral del acceso vehicular en conjuntos residenciales. Permite al personal de seguridad registrar y verificar la información de residentes y visitantes de forma ágil, reduciendo tiempos de espera y minimizando errores. Los usuarios pueden acceder, actualizar y verificar sus datos con total seguridad y privacidad.
